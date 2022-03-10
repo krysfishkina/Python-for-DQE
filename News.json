@@ -1,0 +1,25 @@
+[{
+  "type": "news",
+  "text_of_publication": "text",
+  "country": null,
+    "city": "minsk",
+  "temperature": null,
+  "actual_date": null
+},
+  {
+  "type": "ads",
+  "text_of_publication": "text",
+  "country": null,
+    "city": "minsk",
+  "temperature": null,
+  "actual_date": "20/02/2022"
+},
+  {
+  "type": "weather forecast",
+  "text_of_publication": "text",
+  "country": "belarus",
+    "city": "minsk",
+  "temperature": "32",
+  "actual_date": "20/02/2022"
+}
+]
